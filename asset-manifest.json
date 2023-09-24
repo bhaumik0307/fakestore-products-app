@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FakeStore/static/css/main.6ccd65a8.css",
-    "main.js": "/FakeStore/static/js/main.6aca0020.js",
-    "static/js/787.588924e2.chunk.js": "/FakeStore/static/js/787.588924e2.chunk.js",
-    "index.html": "/FakeStore/index.html",
-    "main.6ccd65a8.css.map": "/FakeStore/static/css/main.6ccd65a8.css.map",
-    "main.6aca0020.js.map": "/FakeStore/static/js/main.6aca0020.js.map",
-    "787.588924e2.chunk.js.map": "/FakeStore/static/js/787.588924e2.chunk.js.map"
+    "main.css": "/fakestore-products-app/static/css/main.6ccd65a8.css",
+    "main.js": "/fakestore-products-app/static/js/main.51fc0ef5.js",
+    "static/js/787.588924e2.chunk.js": "/fakestore-products-app/static/js/787.588924e2.chunk.js",
+    "index.html": "/fakestore-products-app/index.html",
+    "main.6ccd65a8.css.map": "/fakestore-products-app/static/css/main.6ccd65a8.css.map",
+    "main.51fc0ef5.js.map": "/fakestore-products-app/static/js/main.51fc0ef5.js.map",
+    "787.588924e2.chunk.js.map": "/fakestore-products-app/static/js/787.588924e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ccd65a8.css",
-    "static/js/main.6aca0020.js"
+    "static/js/main.51fc0ef5.js"
   ]
 }
